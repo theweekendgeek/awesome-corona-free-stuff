@@ -2,7 +2,7 @@
 
 A curated list things that are or have have been made free to make social distancing and self isolation easiert during the novel corona virus outbreak
 
-Games
+## Games
 
 * Kingdom Rush Frontiers (until March 22)
     * [iOS](ironhi.de/b/2w3dsNT)
@@ -13,7 +13,7 @@ Games
     * [Android](ironhi.de/b/2wZLe6I)
 
 
-Applications
+## Applications
 * Headspace: The mindfulness app Headspace is making some of their premium meditations free
     * [Headspace](https://www.headspace.com/)
 * Sanvello: The mental health app Sanvello is making their premium subscription free
